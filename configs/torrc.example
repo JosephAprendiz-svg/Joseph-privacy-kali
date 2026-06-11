@@ -1,0 +1,4 @@
+# Ejemplo de torrc con ControlPort para rotacion de identidad
+SocksPort 9050
+ControlPort 9051
+CookieAuthentication 0
